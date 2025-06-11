@@ -9,4 +9,5 @@ function printNumbers(n) {
   return result;
 }
 
+// console.log(printNumbers(5)); // <== Ajout temporaire pour test navigateur
 export default printNumbers;
